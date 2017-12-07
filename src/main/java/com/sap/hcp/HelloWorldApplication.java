@@ -17,7 +17,7 @@ public class HelloWorldApplication extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        resp.getWriter().println("Hello World");
+        resp.getWriter().println("Hello WOrld 2");
     }
 
     @Override
